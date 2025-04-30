@@ -1,0 +1,6 @@
+.env
+.pyc
+*.pyc
+.rdb
+*.rdb
+.Rhistory
