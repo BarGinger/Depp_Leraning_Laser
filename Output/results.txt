@@ -4,6 +4,9 @@ Training MAE: 0.009852751074434951 = 0.00985
 For model: GRU - Validation Evaluation:
 Validation MSE: 1.754508696486039e-05 =  1.755e-05
 Validation MAE: 0.003269678248395013 = 0.0033
+For model: GRU - Test Evaluation:
+Test MSE: 0.002286202223331202
+Test MAE: 0.014828559638851362
 
 For model: LSTM - Training Evaluation:
 Training MSE: 0.0017372439464403166 = 0.00174
@@ -11,6 +14,9 @@ Training MAE: 0.01079860662890447
 For model: LSTM - Validation Evaluation:
 Validation MSE: 2.715382045911004e-05
 Validation MAE: 0.004192376509308815
+For model: LSTM - Test Evaluation:
+Test MSE: 0.0018260739875059747
+Test MAE: 0.013813341825612281
 
 For model: RNN - Training Evaluation:
 Training MSE: 0.003653764483704213 = 0.0037
@@ -18,3 +24,6 @@ Training MAE: 0.01699325028667543 = 0.017
 For model: RNN - Validation Evaluation:
 Validation MSE: 3.484046161595851e-05
 Validation MAE: 0.004708265703409276
+For model: RNN - Test Evaluation:
+Test MSE: 0.004882702583366866
+Test MAE: 0.021014066830881546
