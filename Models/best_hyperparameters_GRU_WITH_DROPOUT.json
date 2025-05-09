@@ -1,0 +1,1 @@
+{"hidden_size": 192, "num_layers": 3, "learning_rate": 0.00026737980115691575, "batch_size": 64, "window_size": 16, "dropout": 0.1}
